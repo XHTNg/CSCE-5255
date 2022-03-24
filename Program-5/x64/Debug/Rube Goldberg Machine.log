@@ -1,0 +1,16 @@
+﻿  Common.cpp
+  ContactListener.cpp
+  Game.cpp
+C:\Users\Thoa Nguyen\Desktop\csce5255-nguyen\Program-5\My Game\Game.cpp(246,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Thoa Nguyen\Desktop\csce5255-nguyen\Program-5\My Game\Game.cpp(252,108): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thoa Nguyen\Desktop\csce5255-nguyen\Program-5\My Game\Game.cpp(252,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thoa Nguyen\Desktop\csce5255-nguyen\Program-5\My Game\Game.cpp(262,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thoa Nguyen\Desktop\csce5255-nguyen\Program-5\My Game\Game.cpp(296,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Main.cpp
+  Object.cpp
+  ObjectManager.cpp
+C:\Users\Thoa Nguyen\Desktop\csce5255-nguyen\Program-5\My Game\ObjectManager.cpp(149,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Thoa Nguyen\Desktop\csce5255-nguyen\Program-5\My Game\ObjectManager.cpp(149,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Renderer.cpp
+  Generating Code...
+  Rube Goldberg Machine.vcxproj -> C:\Users\Thoa Nguyen\Desktop\csce5255-nguyen\Program-5\x64\Debug\Rube Goldberg Machine.exe
