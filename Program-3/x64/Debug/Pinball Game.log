@@ -1,0 +1,8 @@
+﻿  ObjectManager.cpp
+C:\Users\Thoa Nguyen\Desktop\csce5255-nguyen\Program-3\My Game\ObjectManager.cpp(794,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thoa Nguyen\Desktop\csce5255-nguyen\Program-3\My Game\ObjectManager.cpp(795,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thoa Nguyen\Desktop\csce5255-nguyen\Program-3\My Game\ObjectManager.cpp(821,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thoa Nguyen\Desktop\csce5255-nguyen\Program-3\My Game\ObjectManager.cpp(822,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thoa Nguyen\Desktop\csce5255-nguyen\Program-3\My Game\ObjectManager.cpp(823,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Thoa Nguyen\Desktop\csce5255-nguyen\Program-3\My Game\ObjectManager.cpp(824,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Pinball Game.vcxproj -> C:\Users\Thoa Nguyen\Desktop\csce5255-nguyen\Program-3\x64\Debug\Program-3.exe
